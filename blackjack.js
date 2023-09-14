@@ -1,12 +1,3 @@
-/*
-	Blackjack 21
-	A simple game developed using Javascript, HTML and CSS
-
-	@author Stayko Chalakov
-	@version 1.0
-	@date 29.06.2017
-*/
-
 //namespacing
 var BlackjackJS = (function() {
 
